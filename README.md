@@ -44,38 +44,40 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- <img width="1036" height="529" alt="kvl" src="https://github.com/user-attachments/assets/ec920518-ce2b-413e-ae6c-b8a5fcb6ac90" />
-<img width="1488" height="806" alt="kvlrun" src="https://github.com/user-attachments/assets/d8ce5f66-a90d-4129-9bd8-d13434b8dbf1" />
+ <img width="1044" height="539" alt="Screenshot 2026-10-25 000323" src="https://github.com/user-attachments/assets/0f73d5c0-9b6d-409c-a295-019d2c088b29" />
 
 
 
 b.  KCL:
- <img width="1407" height="722" alt="kcl" src="https://github.com/user-attachments/assets/910ae91f-2796-4a41-861e-3f2d30e9de72" />
+<img width="1041" height="537" alt="Screenshot 2026-10-25 000414" src="https://github.com/user-attachments/assets/7b4990bd-687d-4c5f-8694-426905712dfc" />
 
-<img width="1319" height="748" alt="kclrun" src="https://github.com/user-attachments/assets/e54e9122-153b-4948-bb00-0f186e9d3e0e" />
 
 Calculation:
 
-a.   KVL:
- <img width="1030" height="1600" alt="calkvl" src="https://github.com/user-attachments/assets/17ab5143-3997-4d4a-a050-01c0dbd4674b" />
+a.  KVL:
+ <img width="1047" height="568" alt="Screenshot 2026-10-25 000401" src="https://github.com/user-attachments/assets/f529d8f8-6b77-4385-966d-af7c83108cc1" />
+
 
 
 
 b.  KCL:
-<img width="966" height="1599" alt="calkcl" src="https://github.com/user-attachments/assets/4f033a4f-3ad8-47dd-ace2-0d105a69c519" />
+<img width="1025" height="591" alt="Screenshot 2026-10-25 000426" src="https://github.com/user-attachments/assets/9a70f488-cbc6-45c8-bada-2531fe0dd2d6" />
+
 
 
 
 
 Tabulation:
 
-a.   KVL:
- <img width="1600" height="945" alt="tabkvl" src="https://github.com/user-attachments/assets/45eae1d5-5223-4c74-83c0-6f80792c3702" />
+a.  KVL:
+<img width="468" height="699" alt="Screenshot 2026-10-25 000626" src="https://github.com/user-attachments/assets/129e86c3-8329-4f33-8bd1-6ad6ff2dcc44" />
+
 
 
 
 b.  KCL:
-<img width="1620" height="945" alt="tabkcl" src="https://github.com/user-attachments/assets/98427971-8bf8-4a20-97f4-4c7eeaec4019" />
+<img width="413" height="699" alt="Screenshot 2026-10-25 000644" src="https://github.com/user-attachments/assets/8f17e0e8-1c57-402f-ac28-faae9f480633" />
+
 
 
 
